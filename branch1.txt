@@ -1,3 +1,7 @@
 hello !!!!!!+ Idiot
 
+<<<<<<< HEAD
 I want chocolate
+=======
+I want chocolate....
+>>>>>>> origin/master
